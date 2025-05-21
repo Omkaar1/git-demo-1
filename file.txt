@@ -1,5 +1,5 @@
+another line is added to check
 Hello from master branch
 This line is added in the main branch.
 This line is added in the feature branch
-This line includes changes from both the
-branches.
+This line includes changes from both the branches.
